@@ -139,7 +139,7 @@ var tags: [String] = [
 ```
 
 ## rotation3DEffect
-<img width="300" alt="スクリーンショット 2023-03-07 23 45 52" src="https://user-images.githubusercontent.com/47273077/223456378-dfcaaeff-bcf1-447a-82d8-1d1f6ff80c75.png">
+<img width="300" alt="スクリーンショット 2023-03-07 23 45 52" src="https://github.com/YamamotoDesu/BookAppUI/blob/main/2023-03-07%2023.47.14.gif">
 
 
 ```swift
