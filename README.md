@@ -68,9 +68,10 @@ var tags: [String] = [
 <table>
   <tr>
        <td valign="top"><img width="300" alt="スクリーンショット 2023-03-07 20 37 49" src="https://user-images.githubusercontent.com/47273077/223412386-0ebc81e3-6869-4182-9455-5c91bb7570aa.gif"></td>
-    <td valign="top"><img width="300" alt="スクリーンショット 2023-03-07 20 37 49" src="https://user-images.githubusercontent.com/47273077/223412386-0ebc81e3-6869-4182-9455-5c91bb7570aa.gif"></td>
+    <td valign="top"><img width="300" alt="スクリーンショット 2023-03-07 20 37 49" src="https://user-images.githubusercontent.com/47273077/223414305-7ea2fb6c-d41b-4b62-97ca-95e744f7b9c5.gif"></td>
   </tr>
 </table>
+
 
 ```swift
 struct Home: View {
