@@ -6,8 +6,6 @@
 struct Home: View {
     /// View Properties
     @State private var activeTag: String = "Biography"
-    /// For Matched Geometry Effect
-    @Namespace private var animation
     var body: some View {
         VStack(spacing: 15) {
             HStack {
