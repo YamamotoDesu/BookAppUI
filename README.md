@@ -65,10 +65,10 @@ var tags: [String] = [
 ```
 
 ## matchedGeometryEffect
-As It Is
+### As It Is  
 <img width="300" alt="スクリーンショット 2023-03-07 20 37 49" src="https://user-images.githubusercontent.com/47273077/223412386-0ebc81e3-6869-4182-9455-5c91bb7570aa.gif">
 
-To Be
+### To Be  
 <img width="300" alt="スクリーンショット 2023-03-07 20 37 49" src="https://user-images.githubusercontent.com/47273077/223412386-0ebc81e3-6869-4182-9455-5c91bb7570aa.gif">
 
 ```swift
